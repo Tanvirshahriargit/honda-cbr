@@ -1,0 +1,22 @@
+.background-color{
+    background-color: #264653;
+}
+.button-color{
+    background-color: #E76F51;
+    color: aliceblue;
+    padding: 10px 40px;
+}
+/* feture bike color text  */
+.text-color{
+    color: #E76F51 ;
+}
+.gray-scall {
+    filter: gray; 
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1); 
+  }
+  
+  .gray-scall:hover {
+    -webkit-filter: grayscale(0);
+    filter: none;
+  }
